@@ -2,4 +2,4 @@
 
 **Building Leapfrog primitives:**
 
-Leat's kollectyvely leapfrog !
+Let's kollectyvely leapfrog!
